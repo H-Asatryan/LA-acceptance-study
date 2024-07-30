@@ -1,0 +1,17 @@
+Jupyter notebook dark mode:
+jt -t onedork -fs 11 -tfs 13 -nfs 115 -cellw 88% -T
+
+Activate the classic mode for jupyter notebook (better for presentations):
+jt -r
+
+Convert a notebook to html:
+jupyter nbconvert --to html 010_data_preparation.ipynb
+
+Convert a notebook to html slides:
+jupyter nbconvert --to slides --TemplateExporter.exclude_input=True 020_presentation_1.ipynb
+
+Convert a notebook to html slides and save to another directory:
+jupyter nbconvert --to slides --output-dir='./output/docs/reports' --TemplateExporter.exclude_input=True 020_presentation_1.ipynb
+
+Convert a notebook to .py:
+jupyter nbconvert 3b_data_averages.ipynb --to="python" --output=3b_data_averages
