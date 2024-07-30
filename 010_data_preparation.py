@@ -58,6 +58,7 @@ directory_list = [
     "output/clustering/kmeans/direct_without_pca",
     "output/clustering/kmeans/via_row_avg_ft",
     "output/docs",
+    "output/docs/dataset_info",
     "output/docs/reports",
     "output/extra",
     "output/extra/hypotheses"
