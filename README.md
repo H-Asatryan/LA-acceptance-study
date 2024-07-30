@@ -1,7 +1,10 @@
-# LA-acceptance-study
-The purpose of this repository is to archive program code and publications related to the Acceptance Study for Learning Analytics (part of the Digital Mentoring project).
+# Exploring Student Expectations and Confidence in Learning Analytics
 
-**Exploring Student Expectations and Confidence in Learning Analytics – Executive Summary**
+*The purpose of this repository is to archive program code and publications related to the Acceptance Study for Learning Analytics (part of the Digital Mentoring project, 2021-2024).*
+
+**Project Team:** H. Asatryan, H. Bijl, J. Frochte, C. Frohn-Schauf, J. Mohr, M. Neugebauer, P. Spiegelberg and B. Tousside
+
+**Institution:** Bochum University of Applied Sciences, Department of Electrical Engineering and Computer Science
 
 **Research set-up**
 
@@ -45,3 +48,7 @@ When applying learning analytics, there are a few important factors to consider.
 - The application of LA must be set up properly. Currently many students (Realists, Cautious and Indifferents: 61%) seem to be skeptical about how well the university applies LA. An ineffective application might further erode that trust.
 
 It is also important to use LA in the right way. Students mainly indicate that a clear overview of their learning progress within courses is most likely to help them, increasing their study motivation. LA should not be used to further monitor and pressure students into working harder.
+
+The described results are published as a conference paper:
+
+ - Asatryan H., Tousside B., Mohr J., Neugebauer M., Bijl H., Spiegelberg P., Frohn-Schauf C., Frochte J.  (2024). *Exploring Student Expectations and Confidence in Learning Analytics.* In: Proceedings of the 14th Learning Analytics and Knowledge Conference (LAK24). [DOI: 10.1145/3636555.3636923](http://dx.doi.org/10.1145/3636555.3636923)
