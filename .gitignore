@@ -9,7 +9,7 @@ __pycache__/
 **/.ipynb_checkpoints
 
 # Ignore all (paired with .py) notebooks:
-*.ipynb
+./*.ipynb
 
 # Ignore these auxiliary html docs:
 010_data_preparation.html
