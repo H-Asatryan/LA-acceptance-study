@@ -52,3 +52,8 @@ It is also important to use LA in the right way. Students mainly indicate that a
 The described results are published as a conference paper:
 
  - Asatryan H., Tousside B., Mohr J., Neugebauer M., Bijl H., Spiegelberg P., Frohn-Schauf C., Frochte J.  (2024). *Exploring Student Expectations and Confidence in Learning Analytics.* In: Proceedings of the 14th Learning Analytics and Knowledge Conference (LAK24). [DOI: 10.1145/3636555.3636923](http://dx.doi.org/10.1145/3636555.3636923)
+
+The *Growkudos HTML Version of the paper* (explaining in
+plain language for wider audiences) is available at
+
+[https://link.growkudos.com/1f175b7g4xs](https://link.growkudos.com/1f175b7g4xs)
