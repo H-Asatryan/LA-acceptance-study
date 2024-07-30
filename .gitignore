@@ -1,0 +1,15 @@
+data/
+output/
+__pycache__/
+
+# Ignore these file formats:
+**/.DS_Store
+
+# Ignore Jupyter checkpoints:
+**/.ipynb_checkpoints
+
+# Ignore all (paired with .py) notebooks:
+*.ipynb
+
+# Ignore these auxiliary html docs:
+010_data_preparation.html
